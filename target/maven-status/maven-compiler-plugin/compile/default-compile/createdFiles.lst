@@ -1,0 +1,4 @@
+com\example\debtstrategist\DebtRepository.class
+com\example\debtstrategist\DebtController.class
+com\example\debtstrategist\Debt.class
+com\example\debtstrategist\debt_strategist\DebtStrategistApplication.class
